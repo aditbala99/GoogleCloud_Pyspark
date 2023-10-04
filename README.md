@@ -1,7 +1,7 @@
 # GoogleCloud_Pyspark
 Analyzing Taxi Cab Data  Dive deep into the world of taxi cab data with this repository, where we use PySpark on the Google Cloud Platform to uncover intriguing insights. Gauge the efficiency of taxi drivers. Compare payment modes - how often is cash used versus card? Determine average earnings of drivers. 
 
-1 Description
+# Description
 The goal is to analyze a data set consisting of New York City Taxi trip reports in the Year 2013. The dataset was released under the FOIL (The Freedom of Information Law) and made public by Chris Whong
 (https://chriswhong.com/open-data/foil_nyc_taxi/). 
 2 Taxi Data set
